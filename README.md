@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hyildiz21... currently İstanbul Kültür University i am student of mathematics and computer science 
+- 👋 Hi, there
 - 👀 I’m interested in coding and software...
 
 <!---
